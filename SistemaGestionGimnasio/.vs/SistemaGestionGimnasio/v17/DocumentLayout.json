@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio\\modelos\\rutina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|solutionrelative:modelos\\rutina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio\\modelos\\entrenador .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|solutionrelative:modelos\\entrenador .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A61D61-C580-483E-B185-D1CA04F445F5}|..\\SistemaGestionGimnasio.Test\\SistemaGestionGimnasio.Test.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio.test\\asignadorrutinatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A61D61-C580-483E-B185-D1CA04F445F5}|..\\SistemaGestionGimnasio.Test\\SistemaGestionGimnasio.Test.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio.test\\entrenadortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A61D61-C580-483E-B185-D1CA04F445F5}|..\\SistemaGestionGimnasio.Test\\SistemaGestionGimnasio.Test.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio.test\\rutinatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A61D61-C580-483E-B185-D1CA04F445F5}|..\\SistemaGestionGimnasio.Test\\SistemaGestionGimnasio.Test.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio\\gestores\\gestorentrenadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|solutionrelative:gestores\\gestorentrenadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio\\gestores\\gestorrutinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|solutionrelative:gestores\\gestorrutinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio\\gestores\\gestorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|solutionrelative:gestores\\gestorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio\\modelos\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|solutionrelative:modelos\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|solutionrelative:modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos.l4-2543310\\documents\\luis luna\\repositorio tecnicas\\codigo\\sistemagestiongimnasio\\servicios\\asignadorrutinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60EF1E9-648A-4604-AE9B-64D94AF6511B}|SistemaGestionGimnasio.csproj|solutionrelative:servicios\\asignadorrutinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsignadorRutinaTest.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio.Test\\AsignadorRutinaTest.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionGimnasio.Test\\AsignadorRutinaTest.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio.Test\\AsignadorRutinaTest.cs",
+              "RelativeToolTip": "..\\SistemaGestionGimnasio.Test\\AsignadorRutinaTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:01:38.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntrenadorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio.Test\\EntrenadorTest.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionGimnasio.Test\\EntrenadorTest.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio.Test\\EntrenadorTest.cs",
+              "RelativeToolTip": "..\\SistemaGestionGimnasio.Test\\EntrenadorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:54:59.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RutinaTest.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio.Test\\RutinaTest.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionGimnasio.Test\\RutinaTest.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio.Test\\RutinaTest.cs",
+              "RelativeToolTip": "..\\SistemaGestionGimnasio.Test\\RutinaTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:43:34.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionGimnasio.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\SistemaGestionGimnasio.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:27:50.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AsignadorRutinas.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Servicios\\AsignadorRutinas.cs",
+              "RelativeDocumentMoniker": "Servicios\\AsignadorRutinas.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Servicios\\AsignadorRutinas.cs",
+              "RelativeToolTip": "Servicios\\AsignadorRutinas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:29:29.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GestorUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorUsuarios.cs",
+              "RelativeDocumentMoniker": "Gestores\\GestorUsuarios.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorUsuarios.cs",
+              "RelativeToolTip": "Gestores\\GestorUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:22:48.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestorEntrenadores.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorEntrenadores.cs",
+              "RelativeDocumentMoniker": "Gestores\\GestorEntrenadores.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorEntrenadores.cs",
+              "RelativeToolTip": "Gestores\\GestorEntrenadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:18:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestorRutinas.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorRutinas.cs",
+              "RelativeDocumentMoniker": "Gestores\\GestorRutinas.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorRutinas.cs",
+              "RelativeToolTip": "Gestores\\GestorRutinas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:13:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entrenador .cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Modelos\\Entrenador .cs",
+              "RelativeDocumentMoniker": "Modelos\\Entrenador .cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Modelos\\Entrenador .cs",
+              "RelativeToolTip": "Modelos\\Entrenador .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:06:10.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Modelos\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Modelos\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Modelos\\Ejercicio.cs",
+              "RelativeToolTip": "Modelos\\Ejercicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:03:59.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rutina.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Modelos\\Rutina.cs",
+              "RelativeDocumentMoniker": "Modelos\\Rutina.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Modelos\\Rutina.cs",
+              "RelativeToolTip": "Modelos\\Rutina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:58:19.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:52:10.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alumnos.L4-2543310\\Documents\\Luis Luna\\Repositorio Tecnicas\\Codigo\\SistemaGestionGimnasio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:47:30.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

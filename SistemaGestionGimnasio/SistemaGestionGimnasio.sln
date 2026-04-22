@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestionGimnasio", "SistemaGestionGimnasio.csproj", "{A60EF1E9-648A-4604-AE9B-64D94AF6511B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestionGimnasio.Test", "..\SistemaGestionGimnasio.Test\SistemaGestionGimnasio.Test.csproj", "{53A61D61-C580-483E-B185-D1CA04F445F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A60EF1E9-648A-4604-AE9B-64D94AF6511B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60EF1E9-648A-4604-AE9B-64D94AF6511B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60EF1E9-648A-4604-AE9B-64D94AF6511B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60EF1E9-648A-4604-AE9B-64D94AF6511B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A61D61-C580-483E-B185-D1CA04F445F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A61D61-C580-483E-B185-D1CA04F445F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A61D61-C580-483E-B185-D1CA04F445F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A61D61-C580-483E-B185-D1CA04F445F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB44F61-33CF-4810-9EDF-172FC1298A5C}
+	EndGlobalSection
+EndGlobal
